@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pytest
+# for scripts/score_models.py only:
+# torch
+# transformers
+# bitsandbytes
